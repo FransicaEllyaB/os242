@@ -10,3 +10,6 @@ ZCZC W01 100 L02 CLASSROOM meetings related
 ZCZC W01 120 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 100 L02 CLASSROOM meetings related
 ZCZC W01 120 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 8 L04 Quiz
+ZCZC WO1 30 L41 TXT/mylog.txt related.
+
