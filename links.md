@@ -11,3 +11,6 @@ permalink: LINKS/
   The Deadline is 7 (seven) days after the assignment was announced.
 * [Operating Systems Programming Slides](https://codex.cs.yale.edu/avi/os-book/OS10/slide-dir/) ---
   Material per Chapter
+* [Operating Systems Videos](https://os.vlsm.org/playlists) ---
+  Videos per Week
+
