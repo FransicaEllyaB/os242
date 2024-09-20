@@ -25,3 +25,5 @@ ZCZC W02 20 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 100 L03 CLASSROOM meetings related
 ZCZC W03 30 L04 GitHub Pages related
 ZCZC W03 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W03 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 120 L13 Assignment #03
