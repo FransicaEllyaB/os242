@@ -13,4 +13,5 @@ permalink: LINKS/
   Material per Chapter
 * [Operating Systems Videos](https://os.vlsm.org/playlists) ---
   Videos per Week
-
+* [SHA-256](https://www.simplilearn.com/tutorials/cyber-security-tutorial/sha-256-algorithm) --- 
+The SHA-256
