@@ -15,3 +15,6 @@ permalink: LINKS/
   Videos per Week
 * [SHA-256](https://www.simplilearn.com/tutorials/cyber-security-tutorial/sha-256-algorithm) --- 
 The SHA-256
+* [C Proggraming](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
+-- Tutorials to learn C Programming
+* [Virtual Memory](https://www.javatpoint.com/os-virtual-memory) --- This side explains Virtual Mmemory
