@@ -18,3 +18,8 @@ The SHA-256
 * [C Proggraming](https://www.youtube.com/watch?v=KnvbUiSxvbM&list=PL98qAXLA6aftD9ZlnjpLhdQAOFI8xIB6e)
 -- Tutorials to learn C Programming
 * [Virtual Memory](https://www.javatpoint.com/os-virtual-memory) --- This side explains Virtual Mmemory
+* [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) -- The Concept of threads and concurrency in operating systems
+
+* [Difference between Multiprocessing and Multithreading](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) --- The differenve between multiprocessing and multithreading
+
+
