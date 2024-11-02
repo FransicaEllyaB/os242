@@ -21,5 +21,5 @@ The SHA-256
 * [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) -- The Concept of threads and concurrency in operating systems
 
 * [Difference between Multiprocessing and Multithreading](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) --- The differenve between multiprocessing and multithreading
-
-
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- The explanation of process synchronization.
+* [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/) --- The explanation of critical section on process synchronization.
