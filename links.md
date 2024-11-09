@@ -23,3 +23,5 @@ The SHA-256
 * [Difference between Multiprocessing and Multithreading](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8) --- The differenve between multiprocessing and multithreading
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- The explanation of process synchronization.
 * [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/) --- The explanation of critical section on process synchronization.
+* [LFS Tutorial](https://www.youtube.com/watch?v=KT7z4YbjtJ8&list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb&index=7) --- LFS tutorial untuk Virtual BoX
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) --- Website tutorial mengenai building lfs
