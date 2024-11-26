@@ -26,4 +26,6 @@ The SHA-256
 * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/) --- Website tutorial mengenai building lfs
 * [Kriteria Penjadwalan CPU](https://www.geeksforgeeks.org/cpu-scheduling-criteria/) --- Website untuk Kriteria Penjadwalan CPU
 * [Multiple-Processor Scheduling in Operating System](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/) --- Website untuk Multiple-Processor Scheduling in Operating System
+* [Disk Management in Operating System](https://www.geeksforgeeks.org/disk-management-in-operating-system/) --- Manajemen Disk dalam Sistem Operasi
+* [How Does Linux Boot Process Work?](https://www.youtube.com/watch?v=XpFsMB6FoOs) --- Cara Kerja Boot Linux
 
